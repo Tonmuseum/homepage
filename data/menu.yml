@@ -1,0 +1,8 @@
+- item: Über mich
+  url: post/about/
+- item: Fotos
+  url: post/gallery/
+- item: Videos
+  url: post/videos/
+- item: Kontakt
+  url: contact/
